@@ -1,9 +1,9 @@
-# Talii kenya
+# WORLDHIPPO_KENYA
 
 ## **Authored by Denis ligare,Barnabas Kamau,Joseph Okoth,Yitzhak Njenga**
 
 ### description
--talii kenya is a simple web application that allows both local and international tourists who choose kenya as a favorite tourist destination to know the experience that they are going to get while they are in kenya.it does so by prompting the user to enter their favorite destinations,in return, the users are notified on the experiences that are awaiting them.
+-WORLDHIPPO is a simple web application that allows both local and international tourists who choose kenya as a favorite tourist destination to know the experience that they are going to get while they are in kenya.it does so by prompting the user to enter their favorite destinations,in return, the users are notified on the experiences that are awaiting them.
 
 ## technologies used
 the following are technologies that i used in the project
@@ -22,7 +22,7 @@ Installing the project is simple ,to install the project,follow the following st
 ### link to the repository
  Here is the link to the project github repository 
 
- https://github.com/Barnabas27/Utalii.git
+ https://github.com/Benardakaka/WORLDHIPPO-IN--KENYA
 
 
 ## colaborations
@@ -36,7 +36,7 @@ Do you want to collaborate to the project? well and good,any person with ideas c
 In future we are looking foward to improve the projects functionality, moreso the UI and interactivity in general.this will be made possible as we continue to learn more technologies.
 
 # Licence
-Copyright (c) <2020> <Denis ligare,Barnabas Kamau,Joseph Okoth,Yitzhak Njenga>
+Copyright (c) <2020> <Benard Akaka>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
