@@ -36,6 +36,7 @@ Do you want to collaborate to the project? well and good,any person with ideas c
 In future we are looking foward to improve the projects functionality, moreso the UI and interactivity in general.this will be made possible as we continue to learn more technologies.
 
 # Licence
+* {MIT License
 Copyright (c) <2020> <Benard Akaka>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
