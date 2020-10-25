@@ -6,14 +6,14 @@
 -WORLDHIPPO is a simple web application that allows both local and international tourists who choose kenya as a favorite tourist destination to know the experience that they are going to get while they are in kenya.It does so by prompting the user to enter their favorite destinations,in return, the users are notified on the experiences that are awaiting them.
 
 ## technologies used
-the following are technologies that i used in the project.
- -HTML5
- -CSS3
- -fontowesome icons
- -Bootstrap4
- -javascript
- -jquery
- -chrome browser
+# the following are technologies that i used in the project.
+ * HTML5
+ * CSS3
+ * fontowesome icons
+ * Bootstrap4
+ * javascript
+ * jquery
+ * chrome browser
 
 ## project setup instructions
 Installing the project is simple ,to install the project,follow the following steps.-make an empty folder,clone the repository ising the link below
