@@ -10,7 +10,7 @@ the following are technologies that i used in the project.
  -HTML5
  -CSS3
  -fontowesome icons
- -Bootstrap
+ -Bootstrap4
  -javascript
  -jquery
  -chrome browser
